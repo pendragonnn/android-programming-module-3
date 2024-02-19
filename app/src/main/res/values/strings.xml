@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">modul3</string>
+
+    <!--  comment  -->
+    <string name="content_comment_title">2 Comments</string>
+    <string name="content_comment_user1">John Doe</string>
+    <string name="content_comment_user2">Jane Dahram</string>
+    <string name="content_comment_1">Wow</string>
+    <string name="content_comment_2">Kapan nikah?</string>
+    <string name="button_comment">Add Comment</string>
+
+    <!--  description  -->
+    <string name="content_text">This is my family. We attended our cousin\'s wedding reception party. I\'m the guy who wore the yellow batik. We enjoyed the ceremony so much! Happy wedding day, Ms. \@intan!!!</string>
+    <string name="location">Jakarta, Indonesia</string>
+    <string name="date">19 February 2023</string>
+    <string name="username">Wisnu Andika</string>
+    <string name="dummy_likes">6 likes</string>
+
+</resources>
